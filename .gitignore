@@ -1,0 +1,6 @@
+# Dependences
+node_modules/
+pnpm-lock.yaml
+
+# Secrets
+.env
